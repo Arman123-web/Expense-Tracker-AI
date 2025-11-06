@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/arman/OneDrive/Desktop/expence-tracker/expence-tracker/app/page.tsx"],"sourcesContent":["\n\nexport default function ()  {\n  return (\n    <div className=\"text-red-400\">Home Page</div>\n  )\n}"],"names":[],"mappings":";;;;;;AAEe;IACb,qBACE,8OAAC;QAAI,WAAU;kBAAe;;;;;;AAElC","debugId":null}}]
+}

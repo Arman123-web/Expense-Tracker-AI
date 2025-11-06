@@ -1,0 +1,50 @@
+{
+  "node": {
+    "7fd147ae878ae1e3ba36fad9cb81c1cba2258d5f17": {
+      "workers": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "40071",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": "action-browser"
+      },
+      "exportedName": "detectKeylessEnvDriftAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7f7734ec98e6494c6bff071202baaf127d7a854836": {
+      "workers": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "40071",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": "action-browser"
+      },
+      "exportedName": "invalidateCacheAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+    },
+    "7fc7aa8d06f0d3e64d6c5776e6a761edda0f6fd713": {
+      "workers": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "40071",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/.next/server/app/sign-up/[[...sign-up]]/page": "action-browser"
+      },
+      "exportedName": "createOrReadKeylessAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    }
+  },
+  "edge": {}
+}

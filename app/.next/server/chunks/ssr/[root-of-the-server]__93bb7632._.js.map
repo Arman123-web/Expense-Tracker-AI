@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/arman/OneDrive/Desktop/expence-tracker/expence-tracker/app/page.tsx"],"sourcesContent":["\nimport { currentUser } from \"@clerk/nextjs/server\";\nexport default async function HomePage ()  {\n  const user = await currentUser();\n\n  if (!user){\n    return<Gu/>;\n  }\n  return (\n    <div className=\"text-red-400 dark:text-red-300\">\n      <h1>Home Page</h1>\n    </div>\n  );\n};"],"names":[],"mappings":";;;;;AACA;;;AACe,eAAe;IAC5B,MAAM,OAAO,MAAM,IAAA,yMAAW;IAE9B,IAAI,CAAC,MAAK;QACR,qBAAM,8OAAC;;;;;IACT;IACA,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV","debugId":null}}]
+}

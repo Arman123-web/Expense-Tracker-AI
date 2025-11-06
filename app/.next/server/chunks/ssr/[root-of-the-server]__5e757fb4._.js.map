@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/arman/OneDrive/Desktop/expence-tracker/expence-tracker/app/sign-up/%5B%5B...sign-up%5D%5D/page.tsx"],"sourcesContent":["import { SignUp } from '@clerk/nextjs'\n\nexport default function Page() {\n  return (\n    <div className='flex items-center justify-center min-h-screen'><SignUp /></div>\n  );\n};"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBAAgD,cAAA,8OAAC,gMAAM;;;;;;;;;;AAE1E","debugId":null}}]
+}

@@ -1,0 +1,290 @@
+{
+  "node": {
+    "7f5ec8a0cbb887ccd23a08dacf65b0514cb6e22338": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectKeylessEnvDriftAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "detectKeylessEnvDriftAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7f9a5d00f322c7378499bccc2afc46d266e6c726c2": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "invalidateCacheAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "invalidateCacheAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js"
+    },
+    "7fc2434a5e74cd34e5254359f66edc53f8198d0396": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createOrReadKeylessAction",
+          "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "createOrReadKeylessAction",
+      "filename": "node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js"
+    },
+    "7ff2a049811688fb48f724aa86efc14f4a5d3b642d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "app/actions/getUserRecord.ts"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "default",
+      "filename": "app/actions/getUserRecord.ts"
+    },
+    "7f9da125d2f5110564f1f82137f4688dc80e6e6c77": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "app/actions/getBestWorstExpense.ts"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "default",
+      "filename": "app/actions/getBestWorstExpense.ts"
+    },
+    "7f300d4e38ff50d79fdce2fafa01e0876d8b750c5c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "app/actions/getRecords.ts"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "default",
+      "filename": "app/actions/getRecords.ts"
+    },
+    "7f833f1f930847f145bb7182dbba5df385713617fe": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "app/actions/addExpenseRecord.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "default",
+      "filename": "app/actions/addExpenseRecord.ts"
+    },
+    "40781dd5fd8a1de2d62afc4e4f06fb64a0e010b63e": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "suggestCategory",
+          "filename": "app/actions/suggestCategory.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "suggestCategory",
+      "filename": "app/actions/suggestCategory.ts"
+    },
+    "003267b14364fc403a0d8a5ed67535cd316d9392dc": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getAIInsights",
+          "filename": "app/actions/getAIInsights.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getAIInsights",
+      "filename": "app/actions/getAIInsights.ts"
+    },
+    "4013349ced32c65029860d0a1da6b3f7f05773712c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "generateInsightAnswer",
+          "filename": "app/actions/generateInsightAnswer.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "generateInsightAnswer",
+      "filename": "app/actions/generateInsightAnswer.ts"
+    },
+    "70fb61ff9585f091c4bc086c260e99cfe0e182176b": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "convertCurrency",
+          "filename": "app/actions/convertCurrency.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "convertCurrency",
+      "filename": "app/actions/convertCurrency.ts"
+    },
+    "7056feb1645a8625c319d561226c2f4459e0f21cb5": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "sendEmailNotification",
+          "filename": "app/actions/emailNotification.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "sendEmailNotification",
+      "filename": "app/actions/emailNotification.ts"
+    },
+    "6090b0559c1aa1d200762c75799ac6441d85af8545": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "splitBill",
+          "filename": "app/actions/billSplitter.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "splitBill",
+      "filename": "app/actions/billSplitter.ts"
+    },
+    "6053838279fe4e53d49ba06531984fd95830796107": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "addGoal",
+          "filename": "app/actions/financialGoals.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "addGoal",
+      "filename": "app/actions/financialGoals.ts"
+    },
+    "00db0cd93447aec7bde16a0bbfd82246487d6a9b8c": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getGoals",
+          "filename": "app/actions/financialGoals.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getGoals",
+      "filename": "app/actions/financialGoals.ts"
+    },
+    "60bbf4a081d728ff4cce476ba6a1befa42b02c326b": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateGoal",
+          "filename": "app/actions/financialGoals.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "updateGoal",
+      "filename": "app/actions/financialGoals.ts"
+    },
+    "60e2f397de4108cc3f0c9fcb7208e80af7ab8324dd": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "detectFraud",
+          "filename": "app/actions/fraudDetection.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "detectFraud",
+      "filename": "app/actions/fraudDetection.ts"
+    },
+    "60949266ffe3921dc1c03fa300d8f03f2a9991825d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getBudgetAdvice",
+          "filename": "app/actions/budgetAdvisor.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getBudgetAdvice",
+      "filename": "app/actions/budgetAdvisor.ts"
+    },
+    "7f0df367e13996e84786f6724378cb636ddb715c6d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/keyless-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@clerk/nextjs/dist/esm/app-router/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/app/actions/getUserRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/app/actions/getBestWorstExpense.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE4 => \"[project]/app/actions/getRecords.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE5 => \"[project]/app/actions/addExpenseRecord.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE6 => \"[project]/app/actions/suggestCategory.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE7 => \"[project]/app/actions/getAIInsights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE8 => \"[project]/app/actions/generateInsightAnswer.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE9 => \"[project]/app/actions/convertCurrency.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE10 => \"[project]/app/actions/emailNotification.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE11 => \"[project]/app/actions/billSplitter.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE12 => \"[project]/app/actions/financialGoals.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE13 => \"[project]/app/actions/fraudDetection.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE14 => \"[project]/app/actions/budgetAdvisor.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE15 => \"[project]/app/actions/deleteRecord.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "default",
+          "filename": "app/actions/deleteRecord.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "default",
+      "filename": "app/actions/deleteRecord.ts"
+    }
+  },
+  "edge": {}
+}

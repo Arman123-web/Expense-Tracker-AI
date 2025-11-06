@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "/.next/server/app/sign-up/[[...sign-up]]/page": [
+      "static/chunks/88fe7266203df3b5.js",
+      "static/chunks/54b8ede11cdc9ba3.js",
+      "static/chunks/2473c16c0c2f6b5f.css",
+      "static/chunks/71eced97c0c0a2b0.css",
+      "static/chunks/51f5a5cfe0c8179b.js",
+      "static/chunks/4f9e8c585954a9cb.js",
+      "static/chunks/fb776f75b2eca4d5.js",
+      "static/chunks/6a48e81ec2c28dbb.js",
+      "static/chunks/1157cb2e3ce5426a.js",
+      "static/chunks/de06b8c97c4e2008.js",
+      "static/chunks/8082ab48faca5ea1.js",
+      "static/chunks/f62ba0843ad469fb.js",
+      "static/chunks/turbopack-ad7c46f1ceb3faa1.js"
+    ]
+  }
+}
